@@ -38,3 +38,6 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+### docker ###
+docker/mysql/mysql-logs/slow.log
